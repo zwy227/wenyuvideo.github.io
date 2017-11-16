@@ -1,0 +1,8454 @@
+[
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "activity": "paper",
+        "head": {
+          "x": 380,
+          "y": 20,
+          "orientation": 128.5146,
+          "z": 72
+        },
+        "id": 0
+      }
+    ],
+    "timestamp": 32042492086467,
+    "timestamp_js": 1500040167053,
+    "localTime": 0
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 380,
+          "y": 20,
+          "orientation": 131.1979,
+          "z": 71
+        }
+      }
+    ],
+    "timestamp": 32042496756140,
+    "timestamp_js": 1500040167376,
+    "localTime": 323
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 380,
+          "y": 20,
+          "orientation": 131.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042502085851,
+    "timestamp_js": 1500040167997,
+    "localTime": 944
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 360,
+          "y": 20,
+          "orientation": 131.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042506426793,
+    "timestamp_js": 1500040168370,
+    "localTime": 1317
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 325,
+          "y": 35,
+          "orientation": 116.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042508427387,
+    "timestamp_js": 1500040168605,
+    "localTime": 1552
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 250,
+          "y": 90,
+          "orientation": 119.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042510756506,
+    "timestamp_js": 1500040168755,
+    "localTime": 1702
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 220,
+          "y": 105,
+          "orientation": 116.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042515755937,
+    "timestamp_js": 1500040169245,
+    "localTime": 2192
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 165,
+          "y": 130,
+          "orientation": 92.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042518426701,
+    "timestamp_js": 1500040169596,
+    "localTime": 2543
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 98,
+          "y": 145,
+          "orientation": 94.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042520426963,
+    "timestamp_js": 1500040169743,
+    "localTime": 2690
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 89,
+          "y": 145,
+          "orientation": 94.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042523086050,
+    "timestamp_js": 1500040169999,
+    "localTime": 2946
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 84,
+          "y": 161,
+          "orientation": 93.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042525755890,
+    "timestamp_js": 1500040170342,
+    "localTime": 3289
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 65,
+          "y": 220,
+          "orientation": 92.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042528426701,
+    "timestamp_js": 1500040170498,
+    "localTime": 3445
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 50,
+          "y": 239,
+          "orientation": 89.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042530755872,
+    "timestamp_js": 1500040170781,
+    "localTime": 3728
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 15,
+          "y": 260,
+          "orientation": 91.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042534085810,
+    "timestamp_js": 1500040171062,
+    "localTime": 4009
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 15,
+          "y": 260,
+          "orientation": 90.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042535426833,
+    "timestamp_js": 1500040171259,
+    "localTime": 4206
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 10,
+          "y": 260,
+          "orientation": 91.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042538755847,
+    "timestamp_js": 1500040171542,
+    "localTime": 4489
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 10,
+          "y": 260,
+          "orientation": 90.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042540086214,
+    "timestamp_js": 1500040171731,
+    "localTime": 4678
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 10,
+          "y": 260,
+          "orientation": 90.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042544085740,
+    "timestamp_js": 1500040172134,
+    "localTime": 5081
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 260,
+          "orientation": 90.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042546085918,
+    "timestamp_js": 1500040172285,
+    "localTime": 5232
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 270,
+          "orientation": 91.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042548755735,
+    "timestamp_js": 1500040172564,
+    "localTime": 5511
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 270,
+          "orientation": 90.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042551426807,
+    "timestamp_js": 1500040172908,
+    "localTime": 5855
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 270,
+          "orientation": 90.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042554426671,
+    "timestamp_js": 1500040173159,
+    "localTime": 6106
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 270,
+          "orientation": 90.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042556426588,
+    "timestamp_js": 1500040173281,
+    "localTime": 6228
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 270,
+          "orientation": 90.0395,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042558426696,
+    "timestamp_js": 1500040173597,
+    "localTime": 6544
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 270,
+          "orientation": 90.491699999999994,
+          "z": 69
+        }
+      }
+    ],
+    "timestamp": 32042561426486,
+    "timestamp_js": 1500040173855,
+    "localTime": 6802
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 6,
+          "y": 270,
+          "orientation": 90.1478,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042563428283,
+    "timestamp_js": 1500040174097,
+    "localTime": 7044
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 5,
+          "y": 270,
+          "orientation": 92.6089,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042565756068,
+    "timestamp_js": 1500040174321,
+    "localTime": 7268
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 5,
+          "y": 270,
+          "orientation": 94.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042567756134,
+    "timestamp_js": 1500040174533,
+    "localTime": 7480
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 5,
+          "y": 270,
+          "orientation": 92.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042571755627,
+    "timestamp_js": 1500040174829,
+    "localTime": 7776
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 275,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042573086027,
+    "timestamp_js": 1500040174983,
+    "localTime": 7930
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042575756091,
+    "timestamp_js": 1500040175196,
+    "localTime": 8143
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+         "activity": "paper",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042578085793,
+    "timestamp_js": 1500040175489,
+    "localTime": 8436
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+         "activity": "paper",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042580755643,
+    "timestamp_js": 1500040175763,
+    "localTime": 8710
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042583755535,
+    "timestamp_js": 1500040176025,
+    "localTime": 8972
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042586426542,
+    "timestamp_js": 1500040176313,
+    "localTime": 9260
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+         "activity": "pointing",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042589085871,
+    "timestamp_js": 1500040176522,
+    "localTime": 9469
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042591085807,
+    "timestamp_js": 1500040176792,
+    "localTime": 9739
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 47.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042592755532,
+    "timestamp_js": 1500040176949,
+    "localTime": 9896
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+         "activity": "pointing",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 47.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042595755844,
+    "timestamp_js": 1500040177191,
+    "localTime": 10138
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 47.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042598426407,
+    "timestamp_js": 1500040177575,
+    "localTime": 10522
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 12,
+          "y": 260,
+          "orientation": 47.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042600755685,
+    "timestamp_js": 1500040177774,
+    "localTime": 10721
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 5,
+          "y": 270,
+          "orientation": 50.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042604085969,
+    "timestamp_js": 1500040178038,
+    "localTime": 10985
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 5,
+          "y": 260,
+          "orientation": 14.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042605426599,
+    "timestamp_js": 1500040178289,
+    "localTime": 11236
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 270,
+          "orientation": 45.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042608755418,
+    "timestamp_js": 1500040178565,
+    "localTime": 11512
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 5,
+          "y": 270,
+          "orientation": 82.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042610426576,
+    "timestamp_js": 1500040178708,
+    "localTime": 11655
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 290,
+          "orientation": 89.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042612755518,
+    "timestamp_js": 1500040179006,
+    "localTime": 11953
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 290,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042616085681,
+    "timestamp_js": 1500040179263,
+    "localTime": 12210
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+       "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 290,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042617426736,
+    "timestamp_js": 1500040179489,
+    "localTime": 12436
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+       "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 280,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042621426681,
+    "timestamp_js": 1500040179756,
+    "localTime": 12703
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 290,
+          "orientation": 90.6729,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042623085355,
+    "timestamp_js": 1500040179985,
+    "localTime": 12932
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 270,
+          "orientation": 89.968900000000005,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042626085634,
+    "timestamp_js": 1500040180264,
+    "localTime": 13211
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+         "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 270,
+          "orientation": 89.968900000000005,
+          "z": 70
+        }
+      }
+    ],
+    "timestamp": 32042627426680,
+    "timestamp_js": 1500040180471,
+    "localTime": 13418
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 270,
+          "orientation": 90.235,
+          "z": 68
+        }
+      }
+    ],
+    "timestamp": 32042629426531,
+    "timestamp_js": 1500040180722,
+    "localTime": 13669
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 260,
+          "orientation": 92.199,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042632426227,
+    "timestamp_js": 1500040180973,
+    "localTime": 13920
+  },
+  {
+    "skeletons": [
+      {
+                "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 260,
+          "orientation": 92.199,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042636426266,
+    "timestamp_js": 1500040181356,
+    "localTime": 14303
+  },
+  {
+    "skeletons": [
+      {
+          "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 260,
+          "orientation": 92.199,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042638085308,
+    "timestamp_js": 1500040181621,
+    "localTime": 14568
+  },
+  {
+    "skeletons": [
+      {
+               "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 10,
+          "y": 260,
+          "orientation": 91.199,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042641085522,
+    "timestamp_js": 1500040181859,
+    "localTime": 14806
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 24,
+          "y": 260,
+          "orientation": 90.78499999999997,
+          "z": 68
+        }
+      }
+    ],
+    "timestamp": 32042643426347,
+    "timestamp_js": 1500040182035,
+    "localTime": 14982
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 55,
+          "y": 260,
+          "orientation": 90.529,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042646085354,
+    "timestamp_js": 1500040182370,
+    "localTime": 15317
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 95,
+          "y": 260,
+          "orientation": 90.96,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042649085479,
+    "timestamp_js": 1500040182636,
+    "localTime": 15583
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 112,
+          "y": 270,
+          "orientation": 90.154,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042651085415,
+    "timestamp_js": 1500040182932,
+    "localTime": 15879
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 122,
+          "y": 260,
+          "orientation": 90.82,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042654085521,
+    "timestamp_js": 1500040183202,
+    "localTime": 16149
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 142,
+          "y": 248,
+          "orientation": 92.006,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042656426131,
+    "timestamp_js": 1500040183438,
+    "localTime": 16385
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 137,
+          "y": 248,
+          "orientation": 92.656,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042658755694,
+    "timestamp_js": 1500040183662,
+    "localTime": 16609
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 145,
+          "y": 251,
+          "orientation": 90.255,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042661755529,
+    "timestamp_js": 1500040183839,
+    "localTime": 16786
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 165,
+          "y": 254,
+          "orientation": 90.915,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042662755383,
+    "timestamp_js": 1500040184015,
+    "localTime": 16962
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 175,
+          "y": 255,
+          "orientation": 90.168,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042665426305,
+    "timestamp_js": 1500040184271,
+    "localTime": 17218
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 192,
+          "y": 254,
+          "orientation": 90.0444,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042667085259,
+    "timestamp_js": 1500040184511,
+    "localTime": 17458
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 197,
+          "y": 254,
+          "orientation": 90.551,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042671085331,
+    "timestamp_js": 1500040184829,
+    "localTime": 17776
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 175,
+          "y": 260,
+          "orientation": 90.151,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042673426034,
+    "timestamp_js": 1500040185118,
+    "localTime": 18065
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 165,
+          "y": 278,
+          "orientation": 91.953,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042675755666,
+    "timestamp_js": 1500040185310,
+    "localTime": 18257
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 165,
+          "y": 278,
+          "orientation": 91.219,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042679426027,
+    "timestamp_js": 1500040185669,
+    "localTime": 18616
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 163,
+          "y": 285,
+          "orientation": 92.8492,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042681426350,
+    "timestamp_js": 1500040185934,
+    "localTime": 18881
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 176,
+          "y": 279,
+          "orientation": 93.052,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042684085311,
+    "timestamp_js": 1500040186176,
+    "localTime": 19123
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 196,
+          "y": 280,
+          "orientation": 93.0534999999999997,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042686426028,
+    "timestamp_js": 1500040186350,
+    "localTime": 19297
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 185,
+          "y": 280,
+          "orientation": 90.9548,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042688085192,
+    "timestamp_js": 1500040186546,
+    "localTime": 19493
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 178,
+          "y": 270,
+          "orientation": 90.328,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042691426024,
+    "timestamp_js": 1500040186936,
+    "localTime": 19883
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 175,
+          "y": 282,
+          "orientation": 91.969,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042694085171,
+    "timestamp_js": 1500040187183,
+    "localTime": 20130
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 198,
+          "y": 270,
+          "orientation": 91.202,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042696426112,
+    "timestamp_js": 1500040187364,
+    "localTime": 20311
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 185,
+          "y": 276,
+          "orientation": 91.15999999999997,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042698426225,
+    "timestamp_js": 1500040187525,
+    "localTime": 20472
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 192,
+          "y": 277,
+          "orientation": 91.664,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042699755174,
+    "timestamp_js": 1500040187799,
+    "localTime": 20746
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 193,
+          "y": 280,
+          "orientation": 92.163,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042702755527,
+    "timestamp_js": 1500040187985,
+    "localTime": 20932
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 201,
+          "y": 280,
+          "orientation": 92.94100000000003,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042706755212,
+    "timestamp_js": 1500040188423,
+    "localTime": 21370
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 200,
+          "y": 290,
+          "orientation": 93.397,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042708755171,
+    "timestamp_js": 1500040188566,
+    "localTime": 21513
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 182,
+          "y": 280,
+          "orientation": 92.798,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042710426026,
+    "timestamp_js": 1500040188787,
+    "localTime": 21734
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 179,
+          "y": 300,
+          "orientation": 91.10699999999997,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042712755364,
+    "timestamp_js": 1500040188996,
+    "localTime": 21943
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 182,
+          "y": 300,
+          "orientation": 91.589,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042716085018,
+    "timestamp_js": 1500040189380,
+    "localTime": 22327
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 182,
+          "y": 300,
+          "orientation": 91.8999,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042718425759,
+    "timestamp_js": 1500040189540,
+    "localTime": 22487
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 180,
+          "y": 300,
+          "orientation": 92.3417,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042721426014,
+    "timestamp_js": 1500040189837,
+    "localTime": 22784
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 190,
+          "y": 300,
+          "orientation": 87.71299999999997,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042723085117,
+    "timestamp_js": 1500040190001,
+    "localTime": 22948
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 188,
+          "y": 280,
+          "orientation": 90.2309,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042724755071,
+    "timestamp_js": 1500040190214,
+    "localTime": 23161
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 208,
+          "y": 280,
+          "orientation": 92.361,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042728425913,
+    "timestamp_js": 1500040190548,
+    "localTime": 23495
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 208,
+          "y": 280,
+          "orientation": 91.30899999999997,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042730085025,
+    "timestamp_js": 1500040190764,
+    "localTime": 23711
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 208,
+          "y": 290,
+          "orientation": 90.3974,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042732426614,
+    "timestamp_js": 1500040190965,
+    "localTime": 23912
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 208,
+          "y": 300,
+          "orientation": 91.6832,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042734425878,
+    "timestamp_js": 1500040191200,
+    "localTime": 24147
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 190,
+          "y": 300,
+          "orientation": 90.081,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042738084977,
+    "timestamp_js": 1500040191535,
+    "localTime": 24482
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 180,
+          "y": 290,
+          "orientation": 90.084,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042740084885,
+    "timestamp_js": 1500040191725,
+    "localTime": 24672
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 190,
+          "y": 290,
+          "orientation": 90.606,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042744085395,
+    "timestamp_js": 1500040192061,
+    "localTime": 25008
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 190,
+          "y": 290,
+          "orientation": 90.253,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042745425811,
+    "timestamp_js": 1500040192303,
+    "localTime": 25250
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 190,
+          "y": 290,
+          "orientation": 90.71500000000003,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042747754912,
+    "timestamp_js": 1500040192562,
+    "localTime": 25509
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 180,
+          "y": 300,
+          "orientation": 90.115,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042750425834,
+    "timestamp_js": 1500040192773,
+    "localTime": 25720
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 180,
+          "y": 280,
+          "orientation": 90.31100000000004,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042752425714,
+    "timestamp_js": 1500040193000,
+    "localTime": 25947
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 180,
+          "y": 290,
+          "orientation": 90.265,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042756084953,
+    "timestamp_js": 1500040193428,
+    "localTime": 26375
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 198,
+          "y": 290,
+          "orientation": 90.3673,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042759085358,
+    "timestamp_js": 1500040193622,
+    "localTime": 26569
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 180,
+          "y": 290,
+          "orientation": 89.339,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042761085373,
+    "timestamp_js": 1500040193808,
+    "localTime": 26755
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 190,
+          "y": 290,
+          "orientation": 91.0875,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042762755014,
+    "timestamp_js": 1500040193962,
+    "localTime": 26909
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 190,
+          "y": 300,
+          "orientation": 91.942,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042766425711,
+    "timestamp_js": 1500040194352,
+    "localTime": 27299
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 190,
+          "y": 300,
+          "orientation": 93.84950000000003,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042768084991,
+    "timestamp_js": 1500040194501,
+    "localTime": 27448
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 178,
+          "y": 300,
+          "orientation": 90.656,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042769425724,
+    "timestamp_js": 1500040194730,
+    "localTime": 27677
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 195,
+          "y": 300,
+          "orientation": 90.192,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042772084988,
+    "timestamp_js": 1500040194968,
+    "localTime": 27915
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 192,
+          "y": 300,
+          "orientation": 89.016,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042776084897,
+    "timestamp_js": 1500040195353,
+    "localTime": 28300
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 185,
+          "y": 281,
+          "orientation": 118.923,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042777425742,
+    "timestamp_js": 1500040195508,
+    "localTime": 28455
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 170,
+          "y": 300,
+          "orientation": 92.0825,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042779755253,
+    "timestamp_js": 1500040195770,
+    "localTime": 28717
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 150,
+          "y": 290,
+          "orientation": 91.7383,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042784084971,
+    "timestamp_js": 1500040196185,
+    "localTime": 29132
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 170,
+          "y": 300,
+          "orientation": 92.2981999999999942,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042786426014,
+    "timestamp_js": 1500040196366,
+    "localTime": 29313
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 150,
+          "y": 300,
+          "orientation": 91.733000000000004,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042788425633,
+    "timestamp_js": 1500040196626,
+    "localTime": 29573
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 150,
+          "y": 270,
+          "orientation": 90.1758999999999986,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32042791084906,
+    "timestamp_js": 1500040196828,
+    "localTime": 29775
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 170,
+          "y": 250,
+          "orientation": 90.7351,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042793084930,
+    "timestamp_js": 1500040196985,
+    "localTime": 29932
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 170,
+          "y": 270,
+          "orientation": 93.30830000000003,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042794425808,
+    "timestamp_js": 1500040197229,
+    "localTime": 30176
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 160,
+          "y": 270,
+          "orientation": 94.4768,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042796754736,
+    "timestamp_js": 1500040197472,
+    "localTime": 30419
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 160,
+          "y": 270,
+          "orientation": 93.3036,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042801084803,
+    "timestamp_js": 1500040197814,
+    "localTime": 30761
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 150,
+          "y": 270,
+          "orientation": 91.1492,
+          "z": 68
+        }
+      }
+    ],
+    "timestamp": 32042802754683,
+    "timestamp_js": 1500040197952,
+    "localTime": 30899
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 140,
+          "y": 270,
+          "orientation": 90.2121,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042805425508,
+    "timestamp_js": 1500040198341,
+    "localTime": 31288
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 140,
+          "y": 264,
+          "orientation": 91.1727,
+          "z": 67
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 470,
+          "y": 43,
+          "orientation": 116.403,
+          "z": 68
+        }
+      }
+    ],
+    "timestamp": 32042808084762,
+    "timestamp_js": 1500040198571,
+    "localTime": 31518
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 135,
+          "y": 263,
+          "orientation": 114.1511,
+          "z": 67
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 448,
+          "y": 60,
+          "orientation": 123.678,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042811084803,
+    "timestamp_js": 1500040198936,
+    "localTime": 31883
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 146,
+          "y": 285,
+          "orientation": 95.7112,
+          "z": 67
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 417,
+          "y": 69,
+          "orientation": 117.15999999999997,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042813755176,
+    "timestamp_js": 1500040199187,
+    "localTime": 32134
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 156,
+          "y": 245,
+          "orientation": 92.3155,
+          "z": 67
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 408,
+          "y": 79,
+          "orientation": 117.223,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042816084701,
+    "timestamp_js": 1500040199382,
+    "localTime": 32329
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 140,
+          "y": 283,
+          "orientation": 95.1320999999999941,
+          "z": 67
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 412,
+          "y": 72,
+          "orientation": 117.097,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042818425628,
+    "timestamp_js": 1500040199598,
+    "localTime": 32545
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 143,
+          "y": 273,
+          "orientation": 87.87102,
+          "z": 67
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 412,
+          "y": 87,
+          "orientation": 122.148,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042821425557,
+    "timestamp_js": 1500040199856,
+    "localTime": 32803
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 120,
+          "y": 300,
+          "orientation": 101.72300000000001,
+          "z": 67
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 370,
+          "y": 88,
+          "orientation": 122.31899999999996,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042823084716,
+    "timestamp_js": 1500040200042,
+    "localTime": 32989
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 111,
+          "y": 270,
+          "orientation": 51.488,
+          "z": 69
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 400,
+          "y": 92,
+          "orientation": 125.477,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042825084693,
+    "timestamp_js": 1500040200229,
+    "localTime": 33176
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 113,
+          "y": 280,
+          "orientation": 1.35199999999998,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 390,
+          "y": 95,
+          "orientation": 132.97,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042827425546,
+    "timestamp_js": 1500040200467,
+    "localTime": 33414
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 99,
+          "y": 235,
+          "orientation": 2.82900000000001,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 407,
+          "y": 92,
+          "orientation": 139.291,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042831425413,
+    "timestamp_js": 1500040200872,
+    "localTime": 33819
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 86,
+          "y": 210,
+          "orientation": 2.82900000000001,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 427,
+          "y": 90,
+          "orientation": 139.897,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042833084814,
+    "timestamp_js": 1500040201000,
+    "localTime": 33947
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 65,
+          "y": 210,
+          "orientation": 356.82900000000001,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 427,
+          "y": 89,
+          "orientation": 141.21299999999997,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042834425692,
+    "timestamp_js": 1500040201229,
+    "localTime": 34176
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 56,
+          "y": 212,
+          "orientation": 2.247,
+          "z": 69
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 426,
+          "y": 88,
+          "orientation": 140.72,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042836755007,
+    "timestamp_js": 1500040201459,
+    "localTime": 34406
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 62,
+          "y": 229,
+          "orientation": 352.47800000000001,
+          "z": 69
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 429,
+          "y": 83,
+          "orientation": 143.077,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042841084608,
+    "timestamp_js": 1500040201812,
+    "localTime": 34759
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 65,
+          "y": 225,
+          "orientation": 349.17700000000002,
+          "z": 69
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 429,
+          "y": 85,
+          "orientation": 149.72900000000004,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042842754571,
+    "timestamp_js": 1500040202054,
+    "localTime": 35001
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 70,
+          "y": 230,
+          "orientation": 348.827,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 429,
+          "y": 76,
+          "orientation": 147.209,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042845084684,
+    "timestamp_js": 1500040202302,
+    "localTime": 35249
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 70,
+          "y": 216,
+          "orientation": 353.79000000000002,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 427,
+          "y": 87,
+          "orientation": 151.43100000000004,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042847754786,
+    "timestamp_js": 1500040202513,
+    "localTime": 35460
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 72,
+          "y": 216,
+          "orientation": 353.79000000000002,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 425,
+          "y": 89,
+          "orientation": 148.178,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042849754717,
+    "timestamp_js": 1500040202804,
+    "localTime": 35751
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 82,
+          "y": 211,
+          "orientation": 349.332,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 421,
+          "y": 92,
+          "orientation": 147.767,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042852425742,
+    "timestamp_js": 1500040203061,
+    "localTime": 36008
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 85,
+          "y": 209,
+          "orientation": 355.92500000000001,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 422,
+          "y": 90,
+          "orientation": 151.401,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042855425634,
+    "timestamp_js": 1500040203293,
+    "localTime": 36240
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 70,
+          "y": 205,
+          "orientation": 357.25400000000002,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 428,
+          "y": 86,
+          "orientation": 147.714,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042857754646,
+    "timestamp_js": 1500040203532,
+    "localTime": 36479
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 85,
+          "y": 204,
+          "orientation": 356.09800000000001,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 431,
+          "y": 86,
+          "orientation": 149.46799999999996,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042860084563,
+    "timestamp_js": 1500040203814,
+    "localTime": 36761
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 85,
+          "y": 204,
+          "orientation": 356.05000000000001,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 431,
+          "y": 84,
+          "orientation": 151.55,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042862754720,
+    "timestamp_js": 1500040204039,
+    "localTime": 36986
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 89,
+          "y": 205,
+          "orientation": 356.80099999999999,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 429,
+          "y": 85,
+          "orientation": 144.129,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042865084777,
+    "timestamp_js": 1500040204274,
+    "localTime": 37221
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 88,
+          "y": 204,
+          "orientation": 353.69400000000002,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 428,
+          "y": 85,
+          "orientation": 148.844,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042867425341,
+    "timestamp_js": 1500040204521,
+    "localTime": 37468
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 87,
+          "y": 205,
+          "orientation": 354.017,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 425,
+          "y": 87,
+          "orientation": 147.88800000000003,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042869754553,
+    "timestamp_js": 1500040204778,
+    "localTime": 37725
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 86,
+          "y": 206,
+          "orientation": 353.47899999999998,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 420,
+          "y": 91,
+          "orientation": 145.724,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042872425845,
+    "timestamp_js": 1500040205020,
+    "localTime": 37967
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 86,
+          "y": 206,
+          "orientation": 353.29399999999998,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 421,
+          "y": 88,
+          "orientation": 169.241,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042874754502,
+    "timestamp_js": 1500040205212,
+    "localTime": 38159
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 85,
+          "y": 209,
+          "orientation": 348.96300000000002,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 421,
+          "y": 86,
+          "orientation": 174.76599999999996,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042878425246,
+    "timestamp_js": 1500040205614,
+    "localTime": 38561
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 85,
+          "y": 209,
+          "orientation": 353.68900000000002,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 425,
+          "y": 86,
+          "orientation": 177.039,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042880754467,
+    "timestamp_js": 1500040205809,
+    "localTime": 38756
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 85,
+          "y": 210,
+          "orientation": 353.315,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 427,
+          "y": 85,
+          "orientation": 162.284,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042882754870,
+    "timestamp_js": 1500040206076,
+    "localTime": 39023
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 87,
+          "y": 210,
+          "orientation": 356.89699999999999,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 427,
+          "y": 85,
+          "orientation": 156.307,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042885425092,
+    "timestamp_js": 1500040206228,
+    "localTime": 39175
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 87,
+          "y": 209,
+          "orientation": 355.012,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 428,
+          "y": 83,
+          "orientation": 148.2,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042888754513,
+    "timestamp_js": 1500040206743,
+    "localTime": 39690
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 106,
+          "y": 209,
+          "orientation": 356.906,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 424,
+          "y": 84,
+          "orientation": 153.528,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042892084489,
+    "timestamp_js": 1500040206931,
+    "localTime": 39878
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 105,
+          "y": 209,
+          "orientation": 356.219,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 423,
+          "y": 84,
+          "orientation": 151.885,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042894085848,
+    "timestamp_js": 1500040207133,
+    "localTime": 40080
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 101,
+          "y": 207,
+          "orientation": 356.445,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 421,
+          "y": 84,
+          "orientation": 150.127,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042896084430,
+    "timestamp_js": 1500040207367,
+    "localTime": 40314
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 101,
+          "y": 206,
+          "orientation": 350.54599999999999,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 419,
+          "y": 83,
+          "orientation": 151.90700000000004,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042898425483,
+    "timestamp_js": 1500040207556,
+    "localTime": 40503
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 101,
+          "y": 207,
+          "orientation": 353.51100000000002,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 417,
+          "y": 82,
+          "orientation": 150.22,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042900425181,
+    "timestamp_js": 1500040207858,
+    "localTime": 40805
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 101,
+          "y": 209,
+          "orientation": 353.928,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 413,
+          "y": 79,
+          "orientation": 155.95500000000004,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042903084483,
+    "timestamp_js": 1500040208038,
+    "localTime": 40985
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 101,
+          "y": 209,
+          "orientation": 353.10300000000001,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 410,
+          "y": 79,
+          "orientation": 153.826,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042905084581,
+    "timestamp_js": 1500040208197,
+    "localTime": 41144
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 92,
+          "y": 209,
+          "orientation": 353.98899999999998,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 403,
+          "y": 73,
+          "orientation": 157.517,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042908754243,
+    "timestamp_js": 1500040208659,
+    "localTime": 41606
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 92,
+          "y": 207,
+          "orientation": 349.54599999999999,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 408,
+          "y": 82,
+          "orientation": 155.882,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042911084379,
+    "timestamp_js": 1500040208894,
+    "localTime": 41841
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 92,
+          "y": 205,
+          "orientation": 354.53199999999998,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 438,
+          "y": 81,
+          "orientation": 56.9775,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042913425483,
+    "timestamp_js": 1500040209081,
+    "localTime": 42028
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 92,
+          "y": 204,
+          "orientation": 359.08300000000003,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 460,
+          "y": 78,
+          "orientation": 7.2769,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042915425554,
+    "timestamp_js": 1500040209240,
+    "localTime": 42187
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 92,
+          "y": 204,
+          "orientation": 1.363,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 471,
+          "y": 77,
+          "orientation": 326.6843,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32042916754419,
+    "timestamp_js": 1500040209442,
+    "localTime": 42389
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 99,
+          "y": 195,
+          "orientation": 356.28800000000001,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 484,
+          "y": 62,
+          "orientation": 313.957,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042921754386,
+    "timestamp_js": 1500040209862,
+    "localTime": 42809
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 99,
+          "y": 189,
+          "orientation": 359.48200000000003,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 491,
+          "y": 106,
+          "orientation": 325.06099999999998,
+          "z": 62
+        }
+      }
+    ],
+    "timestamp": 32042923084207,
+    "timestamp_js": 1500040210129,
+    "localTime": 43076
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 96,
+          "y": 181,
+          "orientation": 359.738,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 460,
+          "y": 133,
+          "orientation": 320.89100000000002,
+          "z": 60
+        }
+      }
+    ],
+    "timestamp": 32042926425198,
+    "timestamp_js": 1500040210327,
+    "localTime": 43274
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 60,
+          "y": 180,
+          "orientation": 92.0668,
+          "z": 72
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 450,
+          "y": 134,
+          "orientation": 17.28229999999999,
+          "z": 60
+        }
+      }
+    ],
+    "timestamp": 32042928425264,
+    "timestamp_js": 1500040210607,
+    "localTime": 43554
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 30,
+          "y": 240,
+          "orientation": 90.449,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 450,
+          "y": 124,
+          "orientation": 335.83856,
+          "z": 60
+        }
+      }
+    ],
+    "timestamp": 32042930425148,
+    "timestamp_js": 1500040210850,
+    "localTime": 43797
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 15,
+          "y": 250,
+          "orientation": 91.449,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 471,
+          "y": 115,
+          "orientation": 333.02579,
+          "z": 61
+        }
+      }
+    ],
+    "timestamp": 32042932754361,
+    "timestamp_js": 1500040211045,
+    "localTime": 43992
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 10,
+          "y": 212,
+          "orientation": 89.449,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 440,
+          "y": 106,
+          "orientation": 330.9926,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042936425002,
+    "timestamp_js": 1500040211397,
+    "localTime": 44344
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 30,
+          "y": 230,
+          "orientation": 90.551000000000002,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 504,
+          "y": 105,
+          "orientation": 330.8258,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32042938425120,
+    "timestamp_js": 1500040211617,
+    "localTime": 44564
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 10,
+          "y": 230,
+          "orientation": 134.551000000000002,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 504,
+          "y": 105,
+          "orientation": 347.20100000000002,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042940754281,
+    "timestamp_js": 1500040211932,
+    "localTime": 44879
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 20,
+          "y": 245,
+          "orientation": 124.551000000000002,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 456,
+          "y": 76,
+          "orientation": 330.10399999999998,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042944084252,
+    "timestamp_js": 1500040212197,
+    "localTime": 45144
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 88,
+          "y": 260,
+          "orientation": 144.857,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 487,
+          "y": 98,
+          "orientation": 335.05399999999997,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042946425324,
+    "timestamp_js": 1500040212429,
+    "localTime": 45376
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 90,
+          "y": 259,
+          "orientation": 161.661,
+          "z": 70
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 489,
+          "y": 103,
+          "orientation": 343.673,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042950084194,
+    "timestamp_js": 1500040212765,
+    "localTime": 45712
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 80,
+          "y": 255,
+          "orientation": 160.231,
+          "z": 71
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 490,
+          "y": 105,
+          "orientation": 333.31200000000001,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042952425079,
+    "timestamp_js": 1500040213043,
+    "localTime": 45990
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 90,
+          "y": 230,
+          "orientation": 178.64,
+          "z": 72
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 493,
+          "y": 103,
+          "orientation": 333.12400000000002,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042955084329,
+    "timestamp_js": 1500040213296,
+    "localTime": 46243
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 100,
+          "y": 208,
+          "orientation": 181.515,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 491,
+          "y": 105,
+          "orientation": 338.36599999999999,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042957084130,
+    "timestamp_js": 1500040213495,
+    "localTime": 46442
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 60,
+          "y": 185,
+          "orientation": 179.935,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 490,
+          "y": 106,
+          "orientation": 335.055,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042960084134,
+    "timestamp_js": 1500040213711,
+    "localTime": 46658
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 70,
+          "y": 170,
+          "orientation": 180.2843,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 494,
+          "y": 106,
+          "orientation": 324.24200000000002,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042961754251,
+    "timestamp_js": 1500040213958,
+    "localTime": 46905
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 95,
+          "y": 169,
+          "orientation": 177.774,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 493,
+          "y": 106,
+          "orientation": 316.68700000000001,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042964425136,
+    "timestamp_js": 1500040214142,
+    "localTime": 47089
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 99,
+          "y": 169,
+          "orientation": 176.829,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 493,
+          "y": 105,
+          "orientation": 340.09500000000003,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042966084421,
+    "timestamp_js": 1500040214419,
+    "localTime": 47366
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 102,
+          "y": 169,
+          "orientation": 174.25268,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 489,
+          "y": 105,
+          "orientation": 346.416,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042968425148,
+    "timestamp_js": 1500040214578,
+    "localTime": 47525
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 95,
+          "y": 169,
+          "orientation": 172.709358,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 492,
+          "y": 102,
+          "orientation": 344.37200000000001,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042970425004,
+    "timestamp_js": 1500040214742,
+    "localTime": 47689
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 90,
+          "y": 169,
+          "orientation": 177.70935,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 490,
+          "y": 103,
+          "orientation": 335.596,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042974084117,
+    "timestamp_js": 1500040215074,
+    "localTime": 48021
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 100,
+          "y": 169,
+          "orientation": 179.709358,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 492,
+          "y": 102,
+          "orientation": 335.08699999999999,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042975424971,
+    "timestamp_js": 1500040215301,
+    "localTime": 48248
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 101,
+          "y": 169,
+          "orientation": 180.709358,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 489,
+          "y": 104,
+          "orientation": 330.05200000000002,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042977424809,
+    "timestamp_js": 1500040215537,
+    "localTime": 48484
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 95,
+          "y": 156,
+          "orientation": 183.808,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 489,
+          "y": 104,
+          "orientation": 336.06,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042980084082,
+    "timestamp_js": 1500040215760,
+    "localTime": 48707
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 85,
+          "y": 153,
+          "orientation": 173.237,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 489,
+          "y": 104,
+          "orientation": 317.606,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042982424846,
+    "timestamp_js": 1500040215973,
+    "localTime": 48920
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 80,
+          "y": 152,
+          "orientation": 177.627,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 485,
+          "y": 103,
+          "orientation": 325.529,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042986424923,
+    "timestamp_js": 1500040216403,
+    "localTime": 49350
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 65,
+          "y": 152,
+          "orientation": 177.408,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 487,
+          "y": 102,
+          "orientation": 326.572,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042988425101,
+    "timestamp_js": 1500040216544,
+    "localTime": 49491
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 65,
+          "y": 154,
+          "orientation": 163.511,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 485,
+          "y": 103,
+          "orientation": 323.24000000000001,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042990084371,
+    "timestamp_js": 1500040216823,
+    "localTime": 49770
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 60,
+          "y": 169,
+          "orientation": 170.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 485,
+          "y": 104,
+          "orientation": 333.55200000000002,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042992754109,
+    "timestamp_js": 1500040217075,
+    "localTime": 50022
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 59,
+          "y": 179,
+          "orientation": 170.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 486,
+          "y": 103,
+          "orientation": 343.656,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32042995425139,
+    "timestamp_js": 1500040217322,
+    "localTime": 50269
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 50,
+          "y": 172,
+          "orientation": 162.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 490,
+          "y": 102,
+          "orientation": 338.47199999999998,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32042998084226,
+    "timestamp_js": 1500040217575,
+    "localTime": 50522
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 60,
+          "y": 175,
+          "orientation": 169.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 487,
+          "y": 102,
+          "orientation": 337.54899999999998,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043000425092,
+    "timestamp_js": 1500040217798,
+    "localTime": 50745
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 59,
+          "y": 175,
+          "orientation": 163.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 485,
+          "y": 103,
+          "orientation": 330.95600000000002,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043002753941,
+    "timestamp_js": 1500040218024,
+    "localTime": 50971
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 58,
+          "y": 185,
+          "orientation": 160.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 486,
+          "y": 100,
+          "orientation": 330.892,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043006424867,
+    "timestamp_js": 1500040218359,
+    "localTime": 51306
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 34,
+          "y": 195,
+          "orientation": 151.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 483,
+          "y": 102,
+          "orientation": 326.31,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043008424896,
+    "timestamp_js": 1500040218553,
+    "localTime": 51500
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 42,
+          "y": 217,
+          "orientation": 160.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 485,
+          "y": 100,
+          "orientation": 331.52699999999999,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043010424752,
+    "timestamp_js": 1500040218755,
+    "localTime": 51702
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 50,
+          "y": 249,
+          "orientation": 185.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 485,
+          "y": 100,
+          "orientation": 336.45100000000002,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043012084172,
+    "timestamp_js": 1500040218956,
+    "localTime": 51903
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 55,
+          "y": 292,
+          "orientation": 203.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 486,
+          "y": 100,
+          "orientation": 332.46600000000001,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043014754227,
+    "timestamp_js": 1500040219190,
+    "localTime": 52137
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 40,
+          "y": 260,
+          "orientation": 206.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 484,
+          "y": 102,
+          "orientation": 335.832,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043018083857,
+    "timestamp_js": 1500040219612,
+    "localTime": 52559
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 35,
+          "y": 240,
+          "orientation": 210.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 487,
+          "y": 100,
+          "orientation": 330.86000000000001,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043021424619,
+    "timestamp_js": 1500040219873,
+    "localTime": 52820
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 40,
+          "y": 200,
+          "orientation": 214.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 483,
+          "y": 103,
+          "orientation": 337.68400000000003,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043023425078,
+    "timestamp_js": 1500040220124,
+    "localTime": 53071
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 55,
+          "y": 190,
+          "orientation": 226.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 484,
+          "y": 103,
+          "orientation": 337.18400000000003,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043025753824,
+    "timestamp_js": 1500040220255,
+    "localTime": 53202
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 45,
+          "y": 180,
+          "orientation": 226.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 485,
+          "y": 103,
+          "orientation": 336.382,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043027083915,
+    "timestamp_js": 1500040220490,
+    "localTime": 53437
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 45,
+          "y": 175,
+          "orientation": 223.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 486,
+          "y": 103,
+          "orientation": 339.44099999999997,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043029425080,
+    "timestamp_js": 1500040220775,
+    "localTime": 53722
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 50,
+          "y": 145,
+          "orientation": 228.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 487,
+          "y": 103,
+          "orientation": 350.81099999999998,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043032084293,
+    "timestamp_js": 1500040221030,
+    "localTime": 53977
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 45,
+          "y": 125,
+          "orientation": 229.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 490,
+          "y": 105,
+          "orientation": 350.661,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043035084297,
+    "timestamp_js": 1500040221267,
+    "localTime": 54214
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 20,
+          "y": 115,
+          "orientation": 210.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 492,
+          "y": 105,
+          "orientation": 355.858,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043037425084,
+    "timestamp_js": 1500040221485,
+    "localTime": 54432
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 10,
+          "y": 129,
+          "orientation": 229.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 492,
+          "y": 107,
+          "orientation": 349.656,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043039753993,
+    "timestamp_js": 1500040221727,
+    "localTime": 54674
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 10,
+          "y": 120,
+          "orientation": 229.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 493,
+          "y": 108,
+          "orientation": 346.87900000000002,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043042083873,
+    "timestamp_js": 1500040221953,
+    "localTime": 54900
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 3,
+          "y": 120,
+          "orientation": 229.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 494,
+          "y": 113,
+          "orientation": 356.512,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043046424451,
+    "timestamp_js": 1500040222359,
+    "localTime": 55306
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 5,
+          "y": 119,
+          "orientation": 240.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 498,
+          "y": 114,
+          "orientation": 357.21600000000001,
+          "z": 62
+        }
+      }
+    ],
+    "timestamp": 32043048083876,
+    "timestamp_js": 1500040222545,
+    "localTime": 55492
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 5,
+          "y": 119,
+          "orientation": 229.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 499,
+          "y": 118,
+          "orientation": 357.43599999999998,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043050753847,
+    "timestamp_js": 1500040222747,
+    "localTime": 55694
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 35,
+          "y": 119,
+          "orientation": 229.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 498,
+          "y": 121,
+          "orientation": 3.33631,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043054083800,
+    "timestamp_js": 1500040223107,
+    "localTime": 56054
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 35,
+          "y": 129,
+          "orientation": 229.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 495,
+          "y": 127,
+          "orientation": 351.577,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043055753884,
+    "timestamp_js": 1500040223235,
+    "localTime": 56182
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 35,
+          "y": 119,
+          "orientation": 267.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 496,
+          "y": 128,
+          "orientation": 348.44400000000002,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043057083920,
+    "timestamp_js": 1500040223473,
+    "localTime": 56420
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 35,
+          "y": 119,
+          "orientation": 236.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 497,
+          "y": 134,
+          "orientation": 352.20388,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043059424595,
+    "timestamp_js": 1500040223724,
+    "localTime": 56671
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 45,
+          "y": 119,
+          "orientation": 238.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 499,
+          "y": 142,
+          "orientation": 357.30017,
+          "z": 62
+        }
+      }
+    ],
+    "timestamp": 32043062083841,
+    "timestamp_js": 1500040224013,
+    "localTime": 56960
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 60,
+          "y": 129,
+          "orientation": 228.936,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 501,
+          "y": 142,
+          "orientation": 348.30768,
+          "z": 62
+        }
+      }
+    ],
+    "timestamp": 32043064753751,
+    "timestamp_js": 1500040224223,
+    "localTime": 57170
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 60,
+          "y": 126,
+          "orientation": 248.9821,
+          "z": 78
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 499,
+          "y": 132,
+          "orientation": 357.69900000000001,
+          "z": 62
+        }
+      }
+    ],
+    "timestamp": 32043069424595,
+    "timestamp_js": 1500040224680,
+    "localTime": 57627
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 84,
+          "y": 126,
+          "orientation": 237.0035,
+          "z": 78
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 493,
+          "y": 128,
+          "orientation": 335.48000000000002,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043071424587,
+    "timestamp_js": 1500040224879,
+    "localTime": 57826
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 84,
+          "y": 128,
+          "orientation": 234.8887,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 494,
+          "y": 122,
+          "orientation": 348.86786,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043073424644,
+    "timestamp_js": 1500040225122,
+    "localTime": 58069
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 64,
+          "y": 127,
+          "orientation": 238.9565,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 491,
+          "y": 118,
+          "orientation": 347.20369,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043075424677,
+    "timestamp_js": 1500040225274,
+    "localTime": 58221
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 50,
+          "y": 128,
+          "orientation": 213.005,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 492,
+          "y": 115,
+          "orientation": 356.80363,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043077424538,
+    "timestamp_js": 1500040225478,
+    "localTime": 58425
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 60,
+          "y": 122,
+          "orientation": 328.7134,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 491,
+          "y": 115,
+          "orientation": 359.49445,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043080083774,
+    "timestamp_js": 1500040225781,
+    "localTime": 58728
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 60,
+          "y": 123,
+          "orientation": 262.1677,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 488,
+          "y": 116,
+          "orientation": 354.39266,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043082424520,
+    "timestamp_js": 1500040226030,
+    "localTime": 58977
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 84,
+          "y": 124,
+          "orientation": 234.1127,
+          "z": 78
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 490,
+          "y": 117,
+          "orientation": 355.53045,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043085084064,
+    "timestamp_js": 1500040226252,
+    "localTime": 59199
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 60,
+          "y": 124,
+          "orientation": 236.6944,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 492,
+          "y": 118,
+          "orientation": 348.14405,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043087424384,
+    "timestamp_js": 1500040226444,
+    "localTime": 59391
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 82,
+          "y": 125,
+          "orientation": 235.43529999999998,
+          "z": 78
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 492,
+          "y": 121,
+          "orientation": 356.63644,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043090753889,
+    "timestamp_js": 1500040226834,
+    "localTime": 59781
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 60,
+          "y": 124,
+          "orientation": 328.702,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 495,
+          "y": 121,
+          "orientation": 6.97549,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043093083787,
+    "timestamp_js": 1500040227049,
+    "localTime": 59996
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 43,
+          "y": 117,
+          "orientation": 359.411,
+          "z": 81
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 492,
+          "y": 122,
+          "orientation": 54.92342,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043095083606,
+    "timestamp_js": 1500040227266,
+    "localTime": 60213
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 10,
+          "y": 117,
+          "orientation": 0.69979999999998,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 493,
+          "y": 121,
+          "orientation": 151.52100000000002,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043097083715,
+    "timestamp_js": 1500040227600,
+    "localTime": 60547
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 10,
+          "y": 110,
+          "orientation": 357.6511,
+          "z": 78
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "phone",
+        "head": {
+          "x": 464,
+          "y": 105,
+          "orientation": 152.60625,
+          "z": 62
+        }
+      }
+    ],
+    "timestamp": 32043101753719,
+    "timestamp_js": 1500040227923,
+    "localTime": 60870
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 10,
+          "y": 115,
+          "orientation": 3.6839,
+          "z": 78
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 420,
+          "y": 90,
+          "orientation": 159.5437,
+          "z": 63
+        }
+      }
+    ],
+    "timestamp": 32043103754023,
+    "timestamp_js": 1500040228129,
+    "localTime": 61076
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 30,
+          "y": 127,
+          "orientation": 5.6885,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 400,
+          "y": 50,
+          "orientation": 155.5791,
+          "z": 62
+        }
+      }
+    ],
+    "timestamp": 32043105753567,
+    "timestamp_js": 1500040228236,
+    "localTime": 61183
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 61,
+          "y": 147,
+          "orientation": 28.6885,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 310,
+          "y": 100,
+          "orientation": 149.9185,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043107083869,
+    "timestamp_js": 1500040228453,
+    "localTime": 61400
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 71,
+          "y": 147,
+          "orientation": 32.6885,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 310,
+          "y": 95,
+          "orientation": 157.95,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043109083692,
+    "timestamp_js": 1500040228690,
+    "localTime": 61637
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 81,
+          "y": 127,
+          "orientation": 41.6885,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 300,
+          "y": 108,
+          "orientation": 161.4184,
+          "z": 64
+        }
+      }
+    ],
+    "timestamp": 32043111424242,
+    "timestamp_js": 1500040228977,
+    "localTime": 61924
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 90,
+          "y": 127,
+          "orientation": 40.6885,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 300,
+          "y": 90,
+          "orientation": 150.993,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32043116424358,
+    "timestamp_js": 1500040229386,
+    "localTime": 62333
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 100,
+          "y": 117,
+          "orientation": 68.6885,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 310,
+          "y": 61,
+          "orientation": 150.204,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32043118424359,
+    "timestamp_js": 1500040229591,
+    "localTime": 62538
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 100,
+          "y": 117,
+          "orientation": 62.6885,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 310,
+          "y": 82,
+          "orientation": 146.99,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32043120083592,
+    "timestamp_js": 1500040229741,
+    "localTime": 62688
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 98,
+          "y": 100,
+          "orientation": 74.396,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 336,
+          "y": 88,
+          "orientation": 152.956,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043123753519,
+    "timestamp_js": 1500040230121,
+    "localTime": 63068
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 110,
+          "y": 100,
+          "orientation": 61.6843,
+          "z": 73
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 312,
+          "y": 100,
+          "orientation": 154.176,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043125753576,
+    "timestamp_js": 1500040230282,
+    "localTime": 63229
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 124,
+          "y": 98,
+          "orientation": 51.9617,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 302,
+          "y": 70,
+          "orientation": 148.096,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043127424370,
+    "timestamp_js": 1500040230542,
+    "localTime": 63489
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 126,
+          "y": 100,
+          "orientation": 36.341,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 313,
+          "y": 70,
+          "orientation": 140.412,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043130083970,
+    "timestamp_js": 1500040230844,
+    "localTime": 63791
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 120,
+          "y": 95,
+          "orientation": 47.73,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 334,
+          "y": 40,
+          "orientation": 156.196,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043133083615,
+    "timestamp_js": 1500040231073,
+    "localTime": 64020
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 118,
+          "y": 86,
+          "orientation": 53.592600000000004,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 30,
+          "orientation": 156.312,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043135424127,
+    "timestamp_js": 1500040231279,
+    "localTime": 64226
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 124,
+          "y": 84,
+          "orientation": 57.0866,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 361,
+          "y": 25,
+          "orientation": 158.334,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043137424762,
+    "timestamp_js": 1500040231441,
+    "localTime": 64388
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 135,
+          "y": 50,
+          "orientation": 53.8123,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 333,
+          "y": 40,
+          "orientation": 146.493,
+          "z": 66
+        }
+      }
+    ],
+    "timestamp": 32043140753516,
+    "timestamp_js": 1500040231745,
+    "localTime": 64692
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 123,
+          "y": 83,
+          "orientation": 54.09,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 320,
+          "y": 30,
+          "orientation": 153.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043144083604,
+    "timestamp_js": 1500040232182,
+    "localTime": 65129
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 145,
+          "y": 70,
+          "orientation": 52.7156,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 136.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043146424493,
+    "timestamp_js": 1500040232387,
+    "localTime": 65334
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 147,
+          "y": 81,
+          "orientation": 53.6133,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 345,
+          "y": 35,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043148424247,
+    "timestamp_js": 1500040232598,
+    "localTime": 65545
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 143,
+          "y": 65,
+          "orientation": 53.1411,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 345,
+          "y": 35,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043150753525,
+    "timestamp_js": 1500040232760,
+    "localTime": 65707
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 143,
+          "y": 65,
+          "orientation": 53.0184,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 345,
+          "y": 35,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043152424226,
+    "timestamp_js": 1500040233024,
+    "localTime": 65971
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 143,
+          "y": 67,
+          "orientation": 52.5085,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 345,
+          "y": 35,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043155083350,
+    "timestamp_js": 1500040233237,
+    "localTime": 66184
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 143,
+          "y": 61,
+          "orientation": 53.6546,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 345,
+          "y": 35,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043158753291,
+    "timestamp_js": 1500040233671,
+    "localTime": 66618
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 53,
+          "orientation": 54.2505,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 345,
+          "y": 35,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043160753352,
+    "timestamp_js": 1500040233969,
+    "localTime": 66916
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 158,
+          "y": 61,
+          "orientation": 53.869,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043164424563,
+    "timestamp_js": 1500040234204,
+    "localTime": 67151
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 50,
+          "orientation": 54.54,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043166753271,
+    "timestamp_js": 1500040234407,
+    "localTime": 67354
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 53,
+          "orientation": 53.60,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043168753417,
+    "timestamp_js": 1500040234586,
+    "localTime": 67533
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 150,
+          "y": 52,
+          "orientation": 53.64,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043170424402,
+    "timestamp_js": 1500040234735,
+    "localTime": 67682
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 50,
+          "orientation": 53.8674,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043172083262,
+    "timestamp_js": 1500040234973,
+    "localTime": 67920
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 156,
+          "y": 53,
+          "orientation": 53.95,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043174424535,
+    "timestamp_js": 1500040235234,
+    "localTime": 68181
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 153,
+          "y": 57,
+          "orientation": 54.87,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043179083342,
+    "timestamp_js": 1500040235582,
+    "localTime": 68529
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 150,
+          "y": 50,
+          "orientation": 51.69,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043180423996,
+    "timestamp_js": 1500040235774,
+    "localTime": 68721
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 150,
+          "y": 50,
+          "orientation": 53.82,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043184083305,
+    "timestamp_js": 1500040236055,
+    "localTime": 69002
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 150,
+          "y": 50,
+          "orientation": 49.14,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043185083499,
+    "timestamp_js": 1500040236246,
+    "localTime": 69193
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 151,
+          "y": 50,
+          "orientation": 54.7711,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043187424095,
+    "timestamp_js": 1500040236518,
+    "localTime": 69465
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 152,
+          "y": 50,
+          "orientation": 54.4967,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043191424153,
+    "timestamp_js": 1500040236817,
+    "localTime": 69764
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 153,
+          "y": 50,
+          "orientation": 54.4467,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043192753218,
+    "timestamp_js": 1500040237016,
+    "localTime": 69963
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 150,
+          "y": 50,
+          "orientation": 54.4267,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043195753684,
+    "timestamp_js": 1500040237266,
+    "localTime": 70213
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 150,
+          "y": 50,
+          "orientation": 53.4767,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043198424779,
+    "timestamp_js": 1500040237514,
+    "localTime": 70461
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 150,
+          "y": 50,
+          "orientation": 52.4767,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043200753315,
+    "timestamp_js": 1500040237778,
+    "localTime": 70725
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 150,
+          "y": 50,
+          "orientation": 53.67,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043202753652,
+    "timestamp_js": 1500040237997,
+    "localTime": 70944
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 147,
+          "y": 50,
+          "orientation": 52.4528,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043206424186,
+    "timestamp_js": 1500040238528,
+    "localTime": 71475
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 50,
+          "orientation": 51.29,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043209753168,
+    "timestamp_js": 1500040238791,
+    "localTime": 71738
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 50,
+          "orientation": 53.8979,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043212424366,
+    "timestamp_js": 1500040239027,
+    "localTime": 71974
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 50,
+          "orientation": 55.80,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043215083298,
+    "timestamp_js": 1500040239236,
+    "localTime": 72183
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 50,
+          "orientation": 56.47,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043217083705,
+    "timestamp_js": 1500040239445,
+    "localTime": 72392
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 50,
+          "orientation": 61.6723,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043219424003,
+    "timestamp_js": 1500040239604,
+    "localTime": 72551
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 50,
+          "orientation": 66.88,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 108.88,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043220753175,
+    "timestamp_js": 1500040239825,
+    "localTime": 72772
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 55,
+          "orientation": 65.64,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 108.09,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043222753139,
+    "timestamp_js": 1500040240020,
+    "localTime": 72967
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 148,
+          "y": 50,
+          "orientation": 65.44,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 105.30,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043225083238,
+    "timestamp_js": 1500040240315,
+    "localTime": 73262
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 143,
+          "y": 50,
+          "orientation": 66.0624,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043227753549,
+    "timestamp_js": 1500040240511,
+    "localTime": 73458
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 126,
+          "y": 50,
+          "orientation": 61.0683,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043231083264,
+    "timestamp_js": 1500040240875,
+    "localTime": 73822
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 125,
+          "y": 50,
+          "orientation": 64.6391,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 108.72,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043233424000,
+    "timestamp_js": 1500040241055,
+    "localTime": 74002
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 126,
+          "y": 50,
+          "orientation": 64.1416,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.229,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043235083117,
+    "timestamp_js": 1500040241200,
+    "localTime": 74147
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 126,
+          "y": 57,
+          "orientation": 63.0347,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 122.939,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043238753044,
+    "timestamp_js": 1500040241617,
+    "localTime": 74564
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 126,
+          "y": 58,
+          "orientation": 64.1131,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 112.73,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043240424113,
+    "timestamp_js": 1500040241773,
+    "localTime": 74720
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 126,
+          "y": 58,
+          "orientation": 63.89,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 113.59,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043244753065,
+    "timestamp_js": 1500040242097,
+    "localTime": 75044
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 125,
+          "y": 57,
+          "orientation": 54.11,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 108.49,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043245753212,
+    "timestamp_js": 1500040242343,
+    "localTime": 75290
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 125,
+          "y": 61,
+          "orientation": 54.30,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043248083479,
+    "timestamp_js": 1500040242552,
+    "localTime": 75499
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 125,
+          "y": 59,
+          "orientation": 54.87,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 105.00,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043250083485,
+    "timestamp_js": 1500040242757,
+    "localTime": 75704
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 126,
+          "y": 57,
+          "orientation": 59.403099999999995,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 124.10,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043253083083,
+    "timestamp_js": 1500040243042,
+    "localTime": 75989
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 126,
+          "y": 61,
+          "orientation": 58.1603,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043256423892,
+    "timestamp_js": 1500040243423,
+    "localTime": 76370
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 125,
+          "y": 63,
+          "orientation": 59.967500000000001,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043258753221,
+    "timestamp_js": 1500040243627,
+    "localTime": 76574
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 125,
+          "y": 62,
+          "orientation": 71.13,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043261083087,
+    "timestamp_js": 1500040243832,
+    "localTime": 76779
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 126,
+          "y": 66,
+          "orientation": 51.39,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043262752901,
+    "timestamp_js": 1500040243995,
+    "localTime": 76942
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 125,
+          "y": 72,
+          "orientation": 4.43,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "pointing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043264752986,
+    "timestamp_js": 1500040244256,
+    "localTime": 77203
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 127,
+          "y": 72,
+          "orientation": 8.25,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043267423773,
+    "timestamp_js": 1500040244499,
+    "localTime": 77446
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 128,
+          "y": 73,
+          "orientation": 7.52,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043269753312,
+    "timestamp_js": 1500040244763,
+    "localTime": 77710
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 126,
+          "y": 73,
+          "orientation": 46.95,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043272424146,
+    "timestamp_js": 1500040244990,
+    "localTime": 77937
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 125,
+          "y": 76,
+          "orientation": 70.75,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043276423705,
+    "timestamp_js": 1500040245363,
+    "localTime": 78310
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 101,
+          "y": 76,
+          "orientation": 70.12,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043278752964,
+    "timestamp_js": 1500040245610,
+    "localTime": 78557
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 101,
+          "y": 76,
+          "orientation": 64.71,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043281753094,
+    "timestamp_js": 1500040245858,
+    "localTime": 78805
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 101,
+          "y": 76,
+          "orientation": 62.87,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043283082976,
+    "timestamp_js": 1500040245960,
+    "localTime": 78907
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 101,
+          "y": 76,
+          "orientation": 59.83,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043285752947,
+    "timestamp_js": 1500040246277,
+    "localTime": 79224
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 102,
+          "y": 80,
+          "orientation": 64.5886,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043290082879,
+    "timestamp_js": 1500040246740,
+    "localTime": 79687
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "pointing",
+        "head": {
+          "x": 99,
+          "y": 78,
+          "orientation": 66.0605,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 348,
+          "y": 40,
+          "orientation": 142.929,
+          "z": 67
+        }
+      }
+    ],
+    "timestamp": 32043292082880,
+    "timestamp_js": 1500040246954,
+    "localTime": 79901
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 99,
+          "y": 72,
+          "orientation": 66.33,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 373,
+          "y": 67,
+          "orientation": 99.56,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043298083330,
+    "timestamp_js": 1500040247467,
+    "localTime": 80414
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 99,
+          "y": 73,
+          "orientation": 73.58,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 386,
+          "y": 59,
+          "orientation": 21.82,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043299423802,
+    "timestamp_js": 1500040247725,
+    "localTime": 80672
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 97,
+          "y": 72,
+          "orientation": 87.53,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 398,
+          "y": 25,
+          "orientation": 69.71,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043302082894,
+    "timestamp_js": 1500040247925,
+    "localTime": 80872
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 97,
+          "y": 72,
+          "orientation": 86.74,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 398,
+          "y": 25,
+          "orientation": 316.825,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043304082992,
+    "timestamp_js": 1500040248140,
+    "localTime": 81087
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 90,
+          "y": 72,
+          "orientation": 83.40,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 398,
+          "y": 25,
+          "orientation": 314.10400000000004,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043306082970,
+    "timestamp_js": 1500040248331,
+    "localTime": 81278
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 76,
+          "y": 96,
+          "orientation": 86.91,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 398,
+          "y": 25,
+          "orientation": 312.193,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043308083400,
+    "timestamp_js": 1500040248543,
+    "localTime": 81490
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 70,
+          "y": 95,
+          "orientation": 88.49,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 398,
+          "y": 25,
+          "orientation": 313.257,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043310082967,
+    "timestamp_js": 1500040248732,
+    "localTime": 81679
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 70,
+          "y": 103,
+          "orientation": 80.55,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 428,
+          "y": 25,
+          "orientation": 314.942,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043312082926,
+    "timestamp_js": 1500040248962,
+    "localTime": 81909
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 80,
+          "y": 111,
+          "orientation": 81.01,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 428,
+          "y": 25,
+          "orientation": 313.611,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043314083095,
+    "timestamp_js": 1500040249182,
+    "localTime": 82129
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 80,
+          "y": 111,
+          "orientation": 89,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 418,
+          "y": 25,
+          "orientation": 312.244,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043316423812,
+    "timestamp_js": 1500040249349,
+    "localTime": 82296
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 86,
+          "y": 111,
+          "orientation": 88.8,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 418,
+          "y": 25,
+          "orientation": 316.10699999999997,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043318083321,
+    "timestamp_js": 1500040249635,
+    "localTime": 82582
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 80,
+          "y": 108,
+          "orientation": 89.9,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 1,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 418,
+          "y": 25,
+          "orientation": 324.304,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043320752900,
+    "timestamp_js": 1500040249843,
+    "localTime": 82790
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 76,
+          "y": 109,
+          "orientation": 89.0004,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 418,
+          "y": 25,
+          "orientation": 24.304,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043323082784,
+    "timestamp_js": 1500040250063,
+    "localTime": 83010
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 0,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 80,
+          "y": 104,
+          "orientation": 87,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 418,
+          "y": 25,
+          "orientation": 74.304,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043325082897,
+    "timestamp_js": 1500040250194,
+    "localTime": 83141
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 78,
+          "y": 103,
+          "orientation": 74.2485999999999962,
+          "z": 74
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 418,
+          "y": 25,
+          "orientation": 114.304,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043326752711,
+    "timestamp_js": 1500040250441,
+    "localTime": 83388
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "paper",
+        "head": {
+          "x": 90,
+          "y": 113,
+          "orientation": 7.5086,
+          "z": 75
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "paper",
+        "head": {
+          "x": 418,
+          "y": 25,
+          "orientation": 114.304,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043331082928,
+    "timestamp_js": 1500040250810,
+    "localTime": 83757
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 107,
+          "y": 110,
+          "orientation": 12.853,
+          "z": 77
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 418,
+          "y": 25,
+          "orientation": 114.304,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043334752780,
+    "timestamp_js": 1500040251181,
+    "localTime": 84128
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 106,
+          "y": 109,
+          "orientation": 10.61199999999997,
+          "z": 76
+        }
+      },
+      {
+        "activity_tracked": 0,
+        "id": 1,
+        "activity": "standing",
+        "head": {
+          "x": 418,
+          "y": 25,
+          "orientation": 114.304,
+          "z": 65
+        }
+      }
+    ],
+    "timestamp": 32043336423668,
+    "timestamp_js": 1500040251363,
+    "localTime": 84310
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 230,
+          "y": 106,
+          "orientation": 332.26,
+          "z": 76
+        }
+      }
+    ],
+    "timestamp": 32043338423585,
+    "timestamp_js": 1500040251519,
+    "localTime": 84466
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 317,
+          "y": 70,
+          "orientation": 314.44,
+          "z": 75
+        }
+      }
+    ],
+    "timestamp": 32043340083228,
+    "timestamp_js": 1500040251747,
+    "localTime": 84694
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 342,
+          "y": 27,
+          "orientation": 309.95,
+          "z": 75
+        }
+      }
+    ],
+    "timestamp": 32043342082894,
+    "timestamp_js": 1500040252006,
+    "localTime": 84953
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 336,
+          "y": 22,
+          "orientation": 316.05,
+          "z": 75
+        }
+      }
+    ],
+    "timestamp": 32043344752613,
+    "timestamp_js": 1500040252213,
+    "localTime": 85160
+  },
+  {
+    "skeletons": [
+      {
+        "activity_tracked": 1,
+        "id": 0,
+        "activity": "standing",
+        "head": {
+          "x": 330,
+          "y": 8,
+          "orientation": 316.056262,
+          "z": 75
+        }
+      }
+    ],
+    "timestamp": 32043348423655,
+    "timestamp_js": 1500040252586,
+    "localTime": 85533
+  }
+]
